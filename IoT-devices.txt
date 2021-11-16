@@ -1,0 +1,15 @@
+Asus RT-N10+ D1 router
+Huawei Quidway switches 
+SerVision HVG Video Gateway
+D-Link DCS-931L
+DIR-645 Wired/Wireless Router
+Zhone GPON 2520
+Dell SonicWALL Secure Remote Access 
+AirLive BU-2015
+ASUS RT-G32 routers
+AirTies 
+Alcatel-Lucent OmniSwitch
+ANTlabs InnGate
+Grandstream GXV3611_HD camera
+Seagate GoFlex Satellite, Seagate Wireless Mobile Storage, Seagate Wireless Plus Mobile Storage, and LaCie FUEL
+Actiontec GT784WN modems
